@@ -61,3 +61,12 @@ for n = 1:5
 	println()
 end
 
+
+
+# bonus
+x = 5
+println(2x) # 10
+
+# multiply arrays
+a13 = [1,3,4]
+println(a13 .* 3)
